@@ -15,7 +15,7 @@ import java.util.List;
  * Created by Nolira on 06.07.2015.
  */
 @WebServlet("/ProductFilter/*")
-public class ProductServlet extends javax.servlet.http.HttpServlet {
+public class ProductFilterServlet extends javax.servlet.http.HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

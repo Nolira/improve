@@ -13,6 +13,7 @@
     <title>Поиск по продуктам</title>
 </head>
 <body>
+<h1>Прайс-лист</h1>
 <form action="ProductFilter" method="GET">
     <table>
         <tr>
